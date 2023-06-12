@@ -12,7 +12,7 @@ How to Reach Me! :)
 
 <h3>💎 Profile</h3>
 
-* 🤖 `I’m currently learning `: **Python.**
+* 🤖 `I’m currently learning`: **Python.**
 * 🔫 `Favorite Games`: **I like to play video games like VALORANT and Minecraft.**
 * ❤️ `I Love`: **Listening to music.**
 * 💻 `Favorite lang`: **Java.** 
