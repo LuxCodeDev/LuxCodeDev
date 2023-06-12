@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://twitter.com/sLuxCode" target="blank"><img src="https://img.shields.io/twitter/follow/sLuxCode?logo=twitter&style=for-the-badge" alt="sLuxCode" /></a> </p>
 
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=LuxCodeDev&color=dark_red"/>
+	<img src="https://komarev.com/ghpvc/?username=LuxCodeDev&color=red"/>
 	</p>
 
 I'm Lux, student in cybersecurity and apprentice in the programming world. I just enjoy coding fun things. Feel free to check out some of my repositories or leave any questions. I am new to Github, so any advice would be great!
